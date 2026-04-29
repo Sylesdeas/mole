@@ -10,7 +10,7 @@ export default function WelcomeScreen() {
         hole.
       </p>
       <p className="intro">
-        Press restart anytime to head back here and begin again.
+        Press restart anytime to head back here and play again.
       </p>
       <button type="button" className="action-button" onClick={startGame}>
         Play
